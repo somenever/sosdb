@@ -1,0 +1,8 @@
+sosdb
+object test
+  float_value=f:5
+  bool_value=b:true
+end
+object asdfkasdf
+  name=s:amogus
+end
